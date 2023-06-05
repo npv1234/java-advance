@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/vti/DemoSingleton.java=UTF-8
+encoding//src/main/java/com/vti/DemoSingleton2.java=UTF-8
+encoding//src/main/java/com/vti/entity/Account.java=UTF-8
+encoding//src/main/java/com/vti/entity/Group.java=UTF-8
+encoding//src/main/java/com/vti/repository/ArticleRepository.java=UTF-8
+encoding//src/main/java/com/vti/utils/HibernateUtils.java=UTF-8
